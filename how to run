@@ -1,0 +1,14 @@
+Open the Visual Studio Code 
+Open Terminal 
+In terminal type >> npm install 
+Run the Project >> npm start 
+Open in Browser >> http://localhost:3000
+If Something Goes Wrong
+ npm not recognized
+
+ Node.js not installed properly → reinstall
+
+ Blank screen
+
+Open browser console (F12) and check errors
+
