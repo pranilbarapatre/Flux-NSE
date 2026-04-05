@@ -18,7 +18,7 @@ FLUX NSE is an advanced stock market simulation and analytics platform built to 
 
 ## Installation
 
-git clone https://github.com/your-username/flux-nse.git  
+git clone https://github.com/pranilbarapatre/flux-nse.git  
 cd flux-nse  
 npm install  
 npm start  
@@ -40,3 +40,5 @@ npm start
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only and does not involve real trading.
+
+
